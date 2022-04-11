@@ -93,8 +93,8 @@ body{
 
 
 .site-banner .banner-area{
-    background: url(https://images.unsplash.com/photo-1468608374703-abdfab03d1bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) no-repeat;
-    background-size: cover;
+    background: url(img/meFishing.jpg) no-repeat;
+    background-size:cover;
     width: 100%;
     height: 100vh;
     position: relative;
@@ -113,7 +113,7 @@ body{
     height: 200px;
     border-radius: 50%;
     margin: auto;
-    background: url(./assets/about.jpg) no-repeat;
+    background: url(./img/meBeach.jpg) no-repeat;
     background-size: 200%;
     background-position: 40% 0;
 }
@@ -129,3 +129,26 @@ body{
 }
 
 /* #site-main */
+
+.educationList{
+    line-height: 35px;
+}
+
+.schoolInfo{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.schoolDate{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    color: #A2c7e5;
+}
+
+.sectionName{
+    
+}
