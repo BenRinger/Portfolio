@@ -152,3 +152,10 @@ body{
 .sectionName{
     
 }
+
+.edPhoto{
+    margin-left: 5px;
+    border-radius:50%;
+    border-style: solid;
+    border-color: red;
+}
