@@ -97,7 +97,7 @@ body{
     background-size:cover;
     width: 100%;
     height: 100vh;
-    position: relative;
+    position:relative;
 }
 
 .site-banner .banner-area .author{
@@ -156,6 +156,20 @@ body{
 .edPhoto{
     margin-left: 5px;
     border-radius:50%;
+    border-width: 1px;
     border-style: solid;
     border-color: red;
+}
+.resumeCard{
+height: 1320px;
+
+
+}
+.sectionSpacing{
+    padding: 20px;
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
 }
